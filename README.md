@@ -51,6 +51,12 @@ JDBShop 只具有商店类型app的一些最基础的功能，如果你想开发
 这里有一个假头像（是我OvO||It's me|| 私だよ）。
 用户名是登录时传入的用户名。
 地址可编写可保存。
+<p align=center><img width="270" heigt="480" src="https://github.com/user-attachments/assets/aec6ec92-66e8-46ea-9f5f-5b311d004377" alt="微信图片_20241203001544" </p>
+
+
+
+
+
 
 
 
