@@ -33,7 +33,10 @@ JDBShop 只具有商店类型app的一些最基础的功能，如果你想开发
 <p align=center><img width="270" heigt="480" src="https://github.com/user-attachments/assets/60540bb3-8aaf-4662-9696-c867fe5f8487" alt="2ede32bd845d8114a2f38ef46d267f5" </p>
 
 ### 5.商品详情页
-查看商品详情（暂无），添加购物车。
+查看商品详情，添加购物车。
+
+<p align=center><img width="270" heigt="480" src="https://github.com/user-attachments/assets/f9657653-9b64-40bd-8a27-15fb844f0b58" alt="f86f6c1fc33ced794925390f7552b88" </p>
+
 
 ### 6.购物车Fragment
 查看添加商品，支持增减商品或商品数量，可以批量选择进行删除商品，或者结算。会显示当前选中的商品的总价格。
